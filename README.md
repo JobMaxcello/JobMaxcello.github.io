@@ -8,4 +8,3 @@
 <h3 align="center">How To View The Page</h3>
 <p align="center">Go to https://jobmaxcello.github.io/w3school-event.github.io/</p>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
