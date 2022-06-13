@@ -153,6 +153,7 @@ footer {
 }
 
 .btn-primary:active {
+  color: var(--primary);
   background-color: var(--secondary) !important;
 }
 
