@@ -4,5 +4,5 @@
   <br>
 </p>
 
-<h3>How To View The Page</h3>
-<p>Go to https://jobmaxcello.github.io/w3school-event.github.io/</p>
+<h3 align="center">How To View The Page</h3>
+<p align="center">Go to https://jobmaxcello.github.io/w3school-event.github.io/</p>
