@@ -2,5 +2,7 @@
 <p align="center">
   This is my submission for the w3schools event ending on 16th june 2022
   <br>
-  I dont really know what to type here honestly. (this is my first time making repos)
 </p>
+
+<h3>How To View The Page</h3>
+<p>Go to https://jobmaxcello.github.io/w3school-event.github.io/</p>
