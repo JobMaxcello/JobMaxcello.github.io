@@ -140,7 +140,6 @@ footer {
 .btn-primary:focus,
 .btn-primary:active {
   border-radius: 4px !important;
-  font-weight: 900;
   transition: 0.1s;
   color: var(--primary-hover);
   background-color: var(--secondary);
