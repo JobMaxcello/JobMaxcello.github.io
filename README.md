@@ -6,5 +6,5 @@
 </p>
 
 <h3 align="center">How To View The Page</h3>
-<p align="center">Go to https://htmlpreview.github.io/?https://github.com/JobMaxcello/w3school-event/blob/main/index.html</p>
+<p align="center">Go to https://62ad3b2db9dd5021aa334a23--effortless-blini-82e97a.netlify.app/</p>
 
