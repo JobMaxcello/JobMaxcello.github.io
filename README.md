@@ -11,9 +11,3 @@
 <br>
 <br>
 <br>
-
-
-edit: 25th june 2022
-i got top 3 on the event so i drew this 
-<br>
-<img src="https://github.com/JobMaxcello/jobmaxcello.github.io/blob/main/Screenshot%20from%202022-06-25%2011-55-53.png?raw=true">
